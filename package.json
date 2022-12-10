@@ -20,7 +20,7 @@
         "cookie-parser": "^1.4.3",
         "cssinjs-animations": "^0.1.0",
         "dotenv-webpack": "^1.7.0",
-        "express": "^4.16.4",
+        "express": "^4.17.3",
         "express-manifest": "^0.1.1",
         "express-manifest-helpers": "^0.6.0",
         "forcedomain": "^1.0.1",
