@@ -61,7 +61,7 @@
         "universal-hot-reload": "^2.0.3",
         "url-loader": "^1.1.2",
         "webpack": "^4.28.4",
-        "webpack-cli": "^3.2.1",
+        "webpack-cli": "^3.3.12",
         "webpack-file-list-plugin": "0.0.6",
         "webpack-manifest-plugin": "^2.0.4",
         "webpack-node-externals": "^1.7.2"
